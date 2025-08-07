@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="Description" content="BayamJS by wawan sismadi">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+
+<meta http-equiv="Cache-control" content="public" max-age="31536000">
+
+<link rel="stylesheet" type="text/css" href="style.css" >
+
+
+<style>
+/* body{background-color: red;} */
+.content{ display: block;}
+.wow{ display: inline-block;text-align: center;}
+.wow span{width:100%; display:inline-block; text-align: center;}
+
+</style>
+
+<title>avatar</title>
+</head>
+<body>
+
+<div id="modal" class="hide depan"></div>
+
+<div class="menu-container">
+<div class="collapse-icon">
+<i class="di-menu"></i>
+</div>
+<!-- dwarna={ph:'213', ps:'100%', pl:'22.5%'} -->
+
+<label for="colorPicker">Pilih Warna:</label>
+<input type="color" id="colorPicker" value="#0000ff">
+
+
+<button class="button" onclick="gantiwarna('213','71%','57%')"> biru </button>
+<button class="button" onclick="gantiwarna('28', '71%', '57%')"> donat </button>
+<button class="button" onclick="gantiwarna('0', '100%', '25%')"> Maroon </button>
+
+  </div>
+
+<div class="content" id="content"></div>
+
+
+<div id="footer1" class="footer1 center" >
+Made with <svg style="width:24;height:24;">
+  <defs>
+    <linearGradient id="gradient" x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" >
+    <stop stop-color="red" offset="0%"/>
+    <stop stop-color="#cfecf7" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="gradient1" x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" >
+    <stop stop-color="blue" offset="0%"/>
+    <stop stop-color="red" offset="100%"/>
+    </linearGradient>
+  </defs>
+
+<path id="pathws" d="M12 10C7 5 4 14 12 17 20 14 17 5 12 10M12 22A8 8 0 0112 2 8 8 0 0112 22Z"></path>
+</svg> by donat.id
+</div>
+
+<script type="text/javascript" src="img.js"></script>
+
+<script type="text/javascript" >
+
+
+document.getElementById("colorPicker").addEventListener("input", (e) => {
+    let selectedColor = e.target.value;
+    let hsl = rgbToHsl(selectedColor);
+    gantiwarna(hsl.h, hsl.s, hsl.l);
+});
+
+// gantiwarna('213','71%','57%');
+
+
+// donats('ws')
+// img.controller.gallery('content');
+
+</script>
+</body>
+</html>
