@@ -1,0 +1,20 @@
+{
+  "template": "lib-js",
+  "description": "🎨 Powerful SVG manipulation library untuk membuat, animasi, dan kontrol vector graphics untuk modern web interfaces. Fully compatible dengan DonatJS dan framework lainnya.",
+  "topics": ["svg", "javascript", "graphics", "animation", "donatjs", "vector"],
+  "features": [
+    "SVG creation & manipulation",
+    "Animation support",
+    "Lightweight & fast",
+    "Compatible with DonatJS",
+    "Chainable API"
+  ],
+  "install": {
+    "npm": "donatsvg"
+  },
+   "social": {
+    "twitter": "@username",
+    "website": "https://sismadi.id"
+  },
+  "license": "MIT"
+}
