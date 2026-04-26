@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 > **Author:** [sismadi](https://github.com/sismadi)  
-> **Generated:** 2026-04-26T01:58:52.810Z
+> **Generated:** 2026-04-26T02:06:15.409Z
 
 ## ✨ Features
 
@@ -40,6 +40,12 @@ import { repo } from 'DonatJS-LMS';
 ## 🔌 DonatJS Integration
 
 This library is compatible with DonatJS framework.
+
+## 🌐 Social & Links
+
+
+
+
 
 ## 📄 License
 
