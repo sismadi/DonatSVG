@@ -1,10 +1,10 @@
 # DonatJS-LMS
 
-🎨 Powerful SVG manipulation library untuk create, animate, dan control vector graphics. Compatible dengan DonatJS.
+🎨  Powerful SVG manipulation library untuk create, animate, dan control vector graphics. Compatible dengan DonatJS.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 > **Author:** [sismadi](https://github.com/sismadi)  
-> **Generated:** 2026-04-26T02:16:41.089Z
+> **Generated:** 2026-04-26T02:18:08.727Z
 
 ## ✨ Features
 
