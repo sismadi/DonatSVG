@@ -1,10 +1,11 @@
+<- **Website:** [{social.website}] ( {social.website} DEBUG: social = ${JSON.stringify(social)} -->
 # DonatSVG
 
 🎨  Powerful SVG manipulation library untuk create, animate, dan control vector graphics. Compatible dengan DonatJS.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 > **Author:** [sismadi](https://github.com/sismadi)  
-> **Generated:** 2026-04-26T02:47:20.488Z
+> **Generated:** 2026-04-26T03:00:09.605Z
 
 ## ✨ Features
 
