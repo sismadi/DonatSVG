@@ -1,6 +1,6 @@
 {
   "template": "lib-js",
-  "description": "🎨 Powerful SVG manipulation library untuk create, animate, dan control vector graphics. Compatible dengan DonatJS.",
+  "description": "🎨  Powerful SVG manipulation library untuk create, animate, dan control vector graphics. Compatible dengan DonatJS.",
   "topics": ["svg", "javascript", "graphics", "animation", "donatjs", "vector"],
   "features": [
     "SVG creation & manipulation",
