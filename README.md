@@ -1,9 +1,49 @@
-# DonatSVG 
-Powerful SVG manipulation library to create, animate, and control vector graphics for modern web interfaces. Fully compatible with DonatJS and other frameworks.  
+# DonatJS-LMS
 
-> This project is part of the [Donat Ecosystem](https://github.com/sismadi), a lightweight modular toolkit for building modern web applications.
+🎨 Powerful SVG manipulation library untuk create, animate, dan control vector graphics. Compatible dengan DonatJS.
 
-Explore more:
-- [DonatJS](https://github.com/sismadi/donatjs) - Modular JavaScript Framework
-- [DonatSVG](https://github.com/sismadi/donatsvg) - SVG Manipulation Library
-- [DonatCSS](https://github.com/sismadi/donatcss) - Flexible CSS Template System
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+> **Author:** [sismadi](https://github.com/sismadi)  
+> **Generated:** 2026-04-26T01:56:40.745Z
+
+## ✨ Features
+
+
+- SVG creation & manipulation
+
+
+- Animation support
+
+
+- Lightweight & fast
+
+
+- Compatible with DonatJS
+
+
+- Chainable API
+
+
+## 📦 Installation
+
+```bash
+npm install donatsvg
+```
+
+## 💡 Usage
+
+```javascript
+import { repo } from 'DonatJS-LMS';
+// Initialize & use
+```
+
+## 🔌 DonatJS Integration
+
+This library is compatible with DonatJS framework.
+
+## 📄 License
+
+MIT © sismadi
+
+---
+<p align="center">Made with ❤️ by <a href="https://github.com/sismadi">sismadi</a></p>
